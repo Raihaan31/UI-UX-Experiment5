@@ -1,170 +1,62 @@
-# UI-UX-Experiment 5
+# UI-UX-Experiment5
 
-## NAME : R RAIHAAN AHMED
-## REGISTER NUMBER : 212224040260
+## Aim:
 
-# Aim: 
-To analyze and design two different UX project scenarios by identifying user pain points, defining clear UX problem statements, selecting appropriate research methods, and creating user personas that reflect real user needs and motivations.
+To Present 2 different UX project scenarios (e.g., designing a health app, an e-commerce site, or a government service portal).
 
 ## Algorithm:
 
-Step 1: Select two distinct UX project scenarios (e.g., a Health & Fitness App and an E-Commerce Website).
+Identifying and Writing Problem Statements Identify user pain points. Write 1–2 clear UX problem statements using a defined template: "[User] needs a way to [achieve goal] because [obstacle], which results in [impact]."
 
-Step 2: Identify the main user pain points for each scenario by observing or imagining real user challenges.
+Identifying Appropriate Research Methods Identify the most suitable research methods (e.g., surveys, interviews, usability testing, diary studies). Justify your method choice.
 
-Step 3: Write UX Problem Statements using the template: “[User] needs a way to [achieve goal] because [obstacle], which results in [impact].”
+Creating Personas Based on previous user data or a given user scenario. Create at least two user personas with: Demographics Goals Behaviors Pain points Motivation
+## Output:
+This project focuses on creating an online store that sells environmentally and ethically sourced products, with a core feature being a highly transparent display of the supply chain and sustainability impact.
 
-Step 4: Identify suitable UX Research Methods (e.g., surveys, interviews, usability testing) and provide justification for choosing them.
+Identifying and Writing Problem Statements
+User Pain Points:
 
-Step 5: Create User Personas for each scenario including:
+Users are skeptical of sustainability claims (i.e., greenwashing) and don't trust generic badges.
 
-Demographics (age, occupation, location)
+They struggle to compare the actual ethical and environmental impact of products across different brands.
 
-Goals
+The process of finding detailed supply chain information is often fragmented or non-existent, requiring manual, external research.
 
-Behaviors
+Problem Statements:
 
-Pain Points
+"Conscious consumers need a way to easily verify the true environmental and ethical impact of a product because current e-commerce sites provide vague or untrustworthy claims, which results in purchase anxiety and a lack of confidence in making genuinely sustainable choices."
 
-Motivations
+"Shoppers need a way to access comprehensive, verifiable supply chain data because the information is currently fragmented and difficult to find, which results in wasted time and the inability to compare products on a granular sustainability level."
 
-Step 6: Document all findings and present the outcomes as the Output.
+Identifying Appropriate Research Methods
+Selected Methods:
 
-Step 7: Conclude with the Result summarizing what was learned.
+Competitive Analysis: To review how existing ethical e-commerce sites and major retailers currently handle and display sustainability claims.
 
-## SOLUTION :
+Interviews: To talk to conscious consumers about their purchase anxieties, what transparency means to them, and what specific data points they look for (e.g., carbon footprint, fair wages).
 
-## 🩺 Project Scenario 1: Health & Fitness Tracking App
-
-### 1. Problem Statements
-
-Health-conscious users need a way to automatically track their fitness activities because manual entry is time-consuming, which results in inconsistent progress tracking.
-
-New users need a way to receive personalized fitness recommendations because generic content does not match their fitness level, which results in low engagement.
-
-### 2. Research Methods
-
-Chosen Methods:
-
-User Interviews: To understand daily fitness habits and motivational triggers.
-
-Usability Testing: To check whether the interface supports easy activity logging and progress viewing.
+Surveys: To broadly quantify the level of skepticism toward sustainability claims and prioritize which ethical/environmental factors are most important to the majority of the target audience.
 
 Justification:
-Interviews help uncover emotional and behavioral challenges, while usability testing evaluates whether the design supports these needs efficiently.
 
-### 3. User Personas
+Competitive Analysis establishes a baseline of existing solutions and identifies best practices and common pitfalls regarding transparency.
 
-#### Persona 1: Priya Sharma
+Interviews are crucial for uncovering the deep-seated trust issues surrounding "greenwashing" and understanding the specific content users need to feel confident.
 
-Age: 27
-
-Occupation: Software Engineer
-
-Location: Bengaluru, India
-
-Goals: Maintain fitness despite a busy schedule.
-
-Behaviors: Uses smartwatch; tracks calories occasionally.
-
-Pain Points: Forgets to log data manually.
-
-Motivation: Stay healthy and energetic for work-life balance.
-
-#### Persona 2: Arjun Patel
-Age: 34
-
-Occupation: Marketing Manager
-
-Location: Mumbai, India
-
-Goals: Lose weight and reduce stress.
-
-Behaviors: Uses multiple apps but finds them inconsistent.
-
-Pain Points: Lacks personalized workout suggestions.
-
-Motivation: Wants to see measurable results.
-
-
-
-## 🛒 Project Scenario 2: E-Commerce Website (Online Grocery Store)
-
-
-### 1. Problem Statements
-
-Busy customers need a way to find and order daily groceries quickly because cluttered interfaces make navigation difficult, which results in frustration and wasted time.
-
-Returning users need a way to reorder previous items easily because current apps hide past orders, which results in repeated searches and delays.
-
-### 2. Research Methods
-
-Chosen Methods:
-
-Online Surveys: To collect feedback about shopping frequency, product search, and order experience.
-
-A/B Testing: To test simplified layouts against existing ones and measure improvement in task completion time.
-
-Justification:
-Surveys reveal what users value most (speed, clarity, personalization), while A/B testing gives measurable insights on which design performs better in real usage.
-
-
-### 3. User Personas
-
-
-#### Persona 1: Neha Verma
-
-Age: 30
-
-Occupation: Working Professional
-
-Location: Delhi, India
-
-Goals: Buy groceries quickly between meetings.
-
-Behaviors: Uses grocery apps multiple times a week.
-
-Pain Points: Too many pop-ups and banners distract her.
-
-Motivation: Wants a smooth and quick checkout.
-
-
-#### Persona 2: Rajesh Kumar
-
-Age: 42
-
-Occupation: Shop Owner
-
-Location: Chennai, India
-
-Goals: Reorder regular products for home and business.
-
-Behaviors: Shops online monthly; prefers reorder features.
-
-Pain Points: Hard to find frequently purchased items.
-
-Motivation: Wants convenience and time-saving options.
-
-
+Surveys help ensure the design focuses on the most impactful data, preventing the team from building overly complex features that only a niche group would use.
 
 ## Output:
 
--> Two detailed UX project scenarios were created.
 
 
--> Clear UX problem statements were written using the standard format.
+<img width="995" height="525" alt="image" src="https://github.com/user-attachments/assets/d369916d-9121-4dc7-9521-9963361f5967" />
 
 
--> Appropriate research methods were identified and justified.
+<img width="960" height="454" alt="image" src="https://github.com/user-attachments/assets/f91f517a-df3a-405d-8778-3b0e3da8729a" />
 
-
--> Four user personas (two for each scenario) were developed based on user needs, behaviors, and motivations.
-
-
+<img width="1008" height="445" alt="image" src="https://github.com/user-attachments/assets/920b6e86-ecda-48df-ab54-ba43f656ca2e" />
 
 
 ## Result:
-
-The study successfully identified user needs, pain points, and goals for both the health app and e-commerce website. 
-By applying appropriate UX research methods and designing detailed personas, the experiment demonstrated how early 
-UX research directly improves usability, accessibility, and user satisfaction in digital product design.
+To Present 2 different UX project scenarios is completed successfully
